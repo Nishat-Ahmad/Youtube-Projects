@@ -46,7 +46,7 @@ Each image is represented as a 784-dimensional vector (28x28 pixels), with pixel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neural-network-from-scratch.git
+   git clone https://github.com/Nishat-Ahmad/Digit-Classification.git
    cd neural-network-from-scratch
 
 2. Install dependencies:
@@ -59,9 +59,9 @@ Running the Project
 To train and test the neural network:
 Preprocess the dataset (e.g., shuffle and split into training and validation sets).
 Run the script:
-    ```bash
-      python neural_network.py
-
+  ```bash
+  python neural_network.py
+  ```
 Credits
 This project was inspired by Samson Zhang's tutorial on YouTube (https://www.youtube.com/watch?v=w8yWXqWQYmU&t=541s),
 which provided the framework for implementing a neural network without machine learning libraries.
